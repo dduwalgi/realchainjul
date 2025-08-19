@@ -1,5 +1,5 @@
-<div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=realchinjul's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="realchainjul's GitHub">
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=8af1ff&height=120&text=realchainjul's%20Github&animation=&fontColor=5ce4ff&fontSize=70" />
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
@@ -30,6 +30,6 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realchainjul&show_icons=true&theme=radical)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?realchainjul=anuraghazra&theme=holi_icons=true)    
 
 <br>
