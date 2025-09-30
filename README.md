@@ -1,4 +1,4 @@
-<div style="text-align: left;"> <a href="https://velog.io/@dduwalgi/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@dduwalgi/"/></a>
+<div style="text-align: left;"> <a href="https://velog.io/@dduwalgi/"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@dduwalgi/"/></a>
          <a href=mailto:chaeheemaru@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:chaeheemaru@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
